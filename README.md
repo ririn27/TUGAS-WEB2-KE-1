@@ -11,11 +11,13 @@ Pertama buat lah folder di dalam htdocs dengan nama **Lab2Web** lalu buat file b
 untuk penamaan folder dan file kalian bebas menamakannya.
 Setelah itu buka folder tersebut dengan Visual Studio Code seperti gambar dibawah ini
 
-![gambar](./img/folder.png)
+![gambar]![image](https://github.com/ririn27/TUGAS-WEB2-KE-1/assets/115934294/5ceff842-2fa7-4d0e-92e3-986ffad81345)
+
 
 selanjutnya buka file **index.php** lalu ikuti kode seperti gambar dibawah :
 
-![kode1](./img/1.png)
+![kode1](![image](https://github.com/ririn27/TUGAS-WEB2-KE-1/assets/115934294/9e88016d-d53f-47eb-aba7-2cc9a75fdfde)
+)
 > Pembahasan
 Pada kode diatas merupakan kode php dalam menangani formulir yang akan diinput,
 
@@ -63,24 +65,27 @@ lanjut ke kode berikut :
 
 kode berikut merupakan kerangka html yang akan menampilkan formulir dan data yang diinputkan, pada kode ini kita menambahkan style css agar terlihat menarik.
 
-![kode2](./img/2.png)
+![kode2]![image](https://github.com/ririn27/TUGAS-WEB2-KE-1/assets/115934294/0063e139-d293-4987-a49a-f4c9890c1e29)
 
-![kode3](./img/3.png)
+
+![kode3]![image](https://github.com/ririn27/TUGAS-WEB2-KE-1/assets/115934294/5c8ebcea-ad8b-41d6-bad0-d0fd38a1d5a7)
+
 
 Selanjutnya tambahkan kode berikut :
 
 pada kode dibawah ini merupakan tag formulir html. sebagai formulir dan hasil dari inputan yang akan diinputkan nanti.
 
-![kode4](./img/4.png)
+![kode4]![image](https://github.com/ririn27/TUGAS-WEB2-KE-1/assets/115934294/56450e99-aa23-4d5c-ae99-1449597f7e87)
+
 
 setelah selesai saatnya kita jalankan programnya dengan cara buka xampp control panel lalu start apache, jika sudah buka browser lalu ketikan **`localhost/Lab2Web`**
 
 
 Berikut hasil program yang akan muncul sebelum diinput dan sesudah diinput :
 
-![hasil1](./img/Lab2Web%20-%20Google%20Chrome%203_17_2024%2011_05_29%20PM.png)
 
-![hasi2](./img/Lab2Web%20-%20Google%20Chrome%203_17_2024%2011_06_05%20PM.png)
+![hasi2]![WhatsApp Image 2024-03-19 at 23 22 22_2c501090](https://github.com/ririn27/TUGAS-WEB2-KE-1/assets/115934294/098bd291-36f4-49ba-9cb4-f14d5b96d005)
+
 
 Selesai terima kasih semoga bermanfaat.
 
